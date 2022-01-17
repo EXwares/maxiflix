@@ -1,0 +1,49 @@
+.main-container{
+    background-image:linear-gradient(rgba(22, 20, 20, 0.9), rgba(22,20,20,0.9)), url(images/bg_image1.jpg);
+}
+
+.heading{
+    padding: 30px;
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+.site_title{
+    display: flex;
+    color: blue;
+}
+.logo{
+    width: 300px;
+    height: 300px;
+}
+.nav{
+    background-color: darkgray;
+}
+.main-navigation{
+    display: flex;
+    padding-right: 25%;
+    padding-top: 5%;
+}
+.nav-btn{
+    padding: 10%;
+}
+.content_div{
+    padding: 5%;
+    border: 2px
+}
+.pic-display{
+    height: 1000px;
+}
+.pic1{
+    display: flex;
+    justify-content: center;
+}
+.pic1_cont{
+    width: 250px
+}
+.more-abt-web{
+    background: white;
+    padding: 5%;
+    border-radius: 1%;
+}
