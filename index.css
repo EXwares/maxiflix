@@ -25,6 +25,9 @@
     padding-right: 25%;
     padding-top: 5%;
 }
+.nav-link{
+    color: blue;
+}
 .nav-btn{
     padding: 10%;
 }
@@ -41,6 +44,9 @@
 }
 .pic1_cont{
     width: 250px
+}
+.someinfo{
+    padding-top: -10%;
 }
 .more-abt-web{
     background: white;
